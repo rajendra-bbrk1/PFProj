@@ -10,6 +10,7 @@ import pfpack.tests.base.BaseTest;
 import pfpack.util.Constants;
 
 // this is a login test
+//this is a second comment
 public class loginTest extends BaseTest {
 	
 	@Test
